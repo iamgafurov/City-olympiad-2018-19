@@ -1,0 +1,235 @@
+Test: #1
+Ввод
+winner 4
+4
+s e 7
+o s 8
+l o 13
+o o 8
+Вывод
+36
+
+Test: #2
+Ввод
+abcdef 1
+5
+a b -10
+b c 5
+c d 5
+d e 5
+e f 5
+Вывод
+20
+
+Test: #3
+Ввод
+akcbd 2
+3
+a d 55
+b z 100
+b c 50
+Вывод
+155
+
+Test: #4
+Ввод
+adcbd 1
+3
+a d 55
+b z 100
+b c 50
+Вывод
+155
+
+Test: #5
+Ввод
+abcbd 1
+3
+a b 55
+b z 100
+b c 50
+Вывод
+205
+
+Test: #6
+Ввод
+twmurjntco 3
+64
+l v 320
+v l 691
+v v 927
+d l -252
+f a -463
+b f 28
+a f 312
+z g -297
+v b -335
+g f -652
+f z 583
+a d 128
+b l -986
+d d -463
+z d -705
+v f 645
+z a -380
+v a 572
+v z -248
+d g 679
+f l 368
+l a -705
+g g -734
+g l -275
+v g -29
+...
+Вывод
+1870
+
+Test: #7
+Ввод
+vswlx 1
+3
+z l 509
+b i 287
+a o 952
+Вывод
+509
+
+Test: #8
+Ввод
+srtlmx 2
+2
+e a -167
+c v -932
+Вывод
+0
+
+Test: #9
+Ввод
+dlcmexn 3
+3
+o k -42
+o h 527
+f g -654
+Вывод
+527
+
+Test: #10
+Ввод
+jmiqoyqf 4
+0
+Вывод
+0
+
+Test: #11
+Ввод
+owhgcafpz 2
+40
+n n 951
+r n -857
+y o -228
+l c 369
+q g -735
+m g 723
+v y -445
+g z -853
+k f -549
+y h -591
+s h -918
+l p -899
+g t -849
+b y -29
+x l -555
+e x -435
+z w -780
+w k -267
+e n -453
+b f -338
+r y -146
+g b 544
+q q 720
+w c 817
+x n 7...
+Вывод
+1802
+
+Test: #12
+Ввод
+nkbfiidriqbiprwifmug 10
+23
+b l -137
+l p -307
+o q -167
+a u 166
+p k -35
+k r -722
+a d 363
+l u 580
+t p 1000
+p i -883
+r r -698
+h o -773
+y j 992
+p c -898
+g b 19
+a m -629
+z k 857
+a i 746
+z h -518
+h d 939
+a s -332
+f p -544
+p v -530
+Вывод
+7034
+
+Test: #13
+Ввод
+xd 2
+0
+Вывод
+0
+
+Test: #14
+Ввод
+glccn 2
+15
+d m -183
+y h -463
+o z -453
+y p -280
+o o -22
+u y -407
+p a -999
+a j -647
+p w -245
+i b -94
+l u -149
+f r -934
+u m -564
+x n -145
+k d -586
+Вывод
+0
+
+Test: #17
+Ввод
+nyecwtjemqutvqq 15
+16
+g s 994
+f f 234
+g a 289
+f s -442
+s s -383
+a s -636
+a a 425
+s f 398
+s g 10
+f a -621
+g f 94
+a g 923
+s a -344
+g g -108
+a f 918
+f g 819
+Вывод
+10761

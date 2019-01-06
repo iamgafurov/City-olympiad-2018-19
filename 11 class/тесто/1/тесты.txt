@@ -1,0 +1,209 @@
+Test: #1
+Ввод
+Is it a melon?
+Вывод
+NO
+
+Test: #2
+Ввод
+Is it an apple?
+Вывод
+YES
+
+Test: #3
+Ввод
+  Is     it a banana ?
+Вывод
+YES
+
+Test: #4
+Ввод
+Is   it an apple  and a  banana   simultaneouSLY?
+Вывод
+YES
+
+Test: #5
+Ввод
+oHtSbDwzHb?
+Вывод
+NO
+
+Test: #6
+Ввод
+sZecYdUvZHrXx?
+Вывод
+NO
+
+Test: #7
+Ввод
+uMtXK?
+Вывод
+NO
+
+Test: #8
+Ввод
+U?
+Вывод
+YES
+
+Test: #9
+Ввод
+aqFDkCUKeHMyvZFcAyWlMUSQTFomtaWjoKLVyxLCw vcufPBFbaljOuHWiDCROYTcmbgzbaqHXKPOYEbuEtRqqoxBbOETCsQzhw?
+Вывод
+NO
+
+Test: #10
+Ввод
+dJcNqQiFXzcbsj fItCpBLyXOnrSBPebwyFHlxUJHqCUzzCmcAvMiKL NunwOXnKeIxUZmBVwiCUfPkjRAkTPbkYCmwRRnDSLaz?
+Вывод
+NO
+
+Test: #11
+Ввод
+gxzXbdcAQMuFKuuiPohtMgeypr wpDIoDSyOYTdvylcg SoEBZjnMHHYZGEqKgCgBeTbyTwyGuPZxkxsnSczotBdYyfcQsOVDVC?
+Вывод
+NO
+
+Test: #12
+Ввод
+FQXBisXaJFMiHFQlXjixBDMaQuIbyqSBKGsBfTmBKCjszlGVZxEOqYYqRTUkGpSDDAoOXyXcQbHcPaegeOUBNeSD JiKOdECPOF?
+Вывод
+NO
+
+Test: #13
+Ввод
+YhCuZnrWUBEed?
+Вывод
+NO
+
+Test: #14
+Ввод
+hh?
+Вывод
+NO
+
+Test: #15
+Ввод
+whU?
+Вывод
+YES
+
+Test: #16
+Ввод
+fgwg?
+Вывод
+NO
+
+Test: #17
+Ввод
+GlEmEPKrYcOnBNJUIFjszWUyVdvWw DGDjoCMtRJUburkPToCyDrOtMr?
+Вывод
+NO
+
+Test: #18
+Ввод
+n?
+Вывод
+NO
+
+Test: #19
+Ввод
+BueDOlxgzeNlxrzRrMbKiQdmGujEKmGxclvaPpTuHmTqBp?
+Вывод
+NO
+
+Test: #20
+Ввод
+iehvZNQXDGCuVmJPOEysLyUryTdfaIxIuTzTadDbqRQGoCLXkxnyfWSGoLXebNnQQNTqAQJebbyYvHOfpUnXeWdjx?
+Вывод
+NO
+
+Test: #21
+Ввод
+                                                                                                J  ?
+Вывод
+NO
+
+Test: #22
+Ввод
+       j                                                                                           ?
+Вывод
+NO
+
+Test: #23
+Ввод
+                         o                           ?
+Вывод
+YES
+
+Test: #24
+Ввод
+                                                              T             ?
+Вывод
+NO
+
+Test: #25
+Ввод
+                      q             ?
+Вывод
+NO
+
+Test: #26
+Ввод
+       j                                                                                     ?
+Вывод
+NO
+
+Test: #27
+Ввод
+                                                   c  ?
+Вывод
+NO
+
+Test: #28
+Ввод
+         B  ?
+Вывод
+NO
+
+Test: #29
+Ввод
+LuhxDHVwMPTtUIUMIQTuQETgXCOQPsfdFlyHvpfOVedjUTpGLAZGOHloIjJJtOLAlHPivzA?
+Вывод
+YES
+
+Test: #30
+Ввод
+wmztmzFfwbGyOmNHENUFMTsFEMWYA?
+Вывод
+YES
+
+Test: #31
+Ввод
+wGsfZCSwN PEUhNUrLfABrxA?
+Вывод
+YES
+
+Test: #32
+Ввод
+mCDHENXjYbgMdBimAdPnewaHfpGWowjWrVAdvWczjw  iDcUbyzMsmsnwbviiKiAyGVA?
+Вывод
+YES
+
+Test: #33
+Ввод
+ARIWnwqFqxsQXsXXzHqvFjxOCttAGPUzDtWzsenPYdNXuFOIUGYZsLLK IaoxiyjBBRThoelwdPTkuCQfcBLUEJpCPIrVZlvUWA?
+Вывод
+YES
+
+Test: #34
+Ввод
+ PslvVpgpN BXkMFBEVXsyZFIQbBEFxGkYTeXKrOdcmhbiTUatYRUoYAayrchqbksswIlfIjerZPqptvCGnMUhyrQSvwltRhFzA?
+Вывод
+YES
+
+Test: #35
+Ввод
+HpBkttwSjBXDmyleGiRWNUMPaAIE uzTrp KJDzaUiCdsMYOoWKHoUhWUoecCPmACymMUUbGav UMRpCytPETwNFAObZJA?
+Вывод
+YES
